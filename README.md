@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://media.discordapp.net/attachments/682669318705512475/921714105155469312/Glare.gif)
 
 <!--
 **yaya-nyan/yaya-nyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
